@@ -10,11 +10,11 @@ include("includes/db.php");
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Electronic Store</title>
+<title>EasyShop</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Electronic Store Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+<meta name="keywords" content="EasyShop Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
 	SmartPhone Compatible web template, free web designs for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 	function hideURLbar(){ window.scrollTo(0,1); } </script>
@@ -143,7 +143,7 @@ include("includes/db.php");
 				<a href="#" data-toggle="modal" data-target="#myModal88"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></a>
 			</div>
 			<div class="w3l_logo">
-				<h1><a href="index.php">Electronic Store<span>Your stores. Your place.</span></a></h1>
+				<h1><a href="index.php" style="margin-left: 100px: ">EasyShop<span>Your stores. Your place.</span></a></h1>
 			</div>
 			<div class="search">
 				<input class="search_box" type="checkbox" id="search_box">
@@ -235,7 +235,7 @@ include("includes/db.php");
 	<!-- banner -->
 	<div class="banner">
 		<div class="container">
-			<h3>Electronic Store, <span>Special Offers</span></h3>
+			<h3>EasyShop, <span>Special Offers</span></h3>
 		</div>
 	</div>
 	<!-- //banner --> 
@@ -1559,7 +1559,7 @@ include("includes/db.php");
 				</div>
 			</div>
 			<div class="container">
-				<p>&copy; 2017 Electronic Store. All rights reserved | Design by Yash Kotadia, Yash Lahoti and Krisha Mehta</p>
+				<p>&copy; 2017 EasyShop. All rights reserved | Design by Yash Kotadia, Yash Lahoti and Krisha Mehta</p>
 			</div>
 		</div>
 	</div>
